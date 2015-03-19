@@ -79,7 +79,7 @@
         <header-file src="src/ios/PushMessage.h" />
         <source-file src="src/ios/PushMessage.m" />
         
-        <source-file src="src/ios/DataBase/PushMessage.xcdatamodeld" />
+        <source-file src="src/ios/Frameworks/PushMessage.xcdatamodeld" />
         
         
 
